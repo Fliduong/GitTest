@@ -20,7 +20,9 @@ public class Book {
      * @return the name
      */
     public String getName() {
+        String TEST;
         return name;
+        
     }
 
     /**
